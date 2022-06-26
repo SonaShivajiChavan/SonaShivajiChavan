@@ -1,8 +1,8 @@
-<h1>👋 Hello, I'm Sona Chavan!</h1>
+# 👋 Hello, I'm Sona Chavan!
 
-<p align="left">🚀 Data Science fresher with a background as a Junior Python Developer at "The National Institute for Astrophysics", seeking full-time opportunities       to further enhance and sharpen my analytical skills.</p>
+🚀👩‍💻 Data Science fresher with a background as a Junior Python Developer at INAF - Istituto Nazionale di Astrofisica", seeking full-time opportunities to further enhance and sharpen my analytical skills.
 
-👩‍💻 I'm interested in Data Science, Machine learning and Deep Learning.
+💻 I'm interested in Data Science, Machine learning and Deep Learning.
 
 🧠 I'm spend most of my time working on a Machine Learning and Deep Learning based projects.
 
