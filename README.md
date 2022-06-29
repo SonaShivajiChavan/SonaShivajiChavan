@@ -4,7 +4,7 @@
 
 💻 I'm interested in Data Science, Machine learning and Deep Learning.
 
-🧠 I'm spend most of my time working on a Machine Learning and Deep Learning based projects.
+🧠 I spend most of my time working on a Machine Learning and Deep Learning based projects.
 
 🌱 I'm addicted to learning and growing every day.
 
